@@ -1,11 +1,4 @@
 <?php
-/**
- * @package File
- * @link    ''
- * @author  Zaqueu Alves <zaqueu.alves01@gmail.com>
- * @license http://www.gnu.org/licenses/gpl-3.0.html
- * @version 1.0
- */
 namespace application\libraries\File;
 
 use application\libraries\File\Submit;
